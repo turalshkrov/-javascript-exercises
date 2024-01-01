@@ -15,4 +15,3 @@ const fibonacci = (index) => {
 	
 	return fibonacciArray[index - 1];
 }
-
