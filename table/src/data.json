@@ -1,0 +1,72 @@
+[
+  {
+    "rank": 1,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/3b0ddf4e-bd82-11e8-9421-af517c2ebfed.23bcb9e8.30x30o.c76ee2386627.jpg",
+    "player": "Magnus Carlsen",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/no.svg",
+    "rating": 2830
+  },
+  {
+    "rank": 2,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/c66cb17a-c005-11e8-886b-692f3468f8e7.00782bce.30x30o.4c936b7b6638.png",
+    "player": "Fabiano Caruana",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/um.svg",
+    "rating": 2804
+  },
+  {
+    "rank": 3,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/5c8147c2-bd7f-11e8-863f-15ded6970bf6.00cda418.30x30o.db793c7ad25e.png",
+    "player": "Hikaru Nakamu",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/um.svg",
+    "rating": 2788
+  },
+  {
+    "rank": 4,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/00ffadde-d6a8-11e8-bdb9-933b839db343.cfaaa8b2.30x30o.69d40b248fa9.png",
+    "player": "Ding Liren",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/cn.svg",
+    "rating": 2780
+  },
+  {
+    "rank": 5,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/cf02cd92-c0a0-11e8-b780-451d887b5ef3.474799df.30x30o.66e2aac843e1.png",
+    "player": "Ian Nepomniachtchi",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/un.svg",
+    "rating": 2769
+  },
+  {
+    "rank": 6,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/1c5b7992-3ddf-11ea-9e48-b932e6f44795.72164d45.30x30o.315c26129f66.png",
+    "player": "Alireza Firouzja",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/fr.svg",
+    "rating": 2759
+  },
+  {
+    "rank": 7,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/d1da994a-c00b-11e8-ae3d-67e3121970db.484f4dd9.30x30o.35560a6dbd9c.png",
+    "player": "Wesley So",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/um.svg",
+    "rating": 2757
+  },
+  {
+    "rank": 8,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/ef746204-c008-11e8-9179-bfa729926b5d.631b38e0.30x30o.445b09c6349f.jpeg",
+    "player": "Leinier Dominguez Perez",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/um.svg",
+    "rating": 2752
+  },
+  {
+    "rank": 9,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/31705c32-c007-11e8-a922-3d1370bbc533.7b9ed482.30x30o.ea32070d2660.jpeg",
+    "player": "Sergey Karjakin",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/un.svg",
+    "rating": 2750
+  },
+  {
+    "rank": 10,
+    "img": "https://images.chesscomfiles.com/uploads/v1/master_player/93222764-bd80-11e8-b51a-fd14c22a36df.a931527c.30x30o.6a3f8af404e3.jpeg",
+    "player": "Anish Giri",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/nl.svg",
+    "rating": 2749
+  }
+]
