@@ -92,6 +92,39 @@ Array.prototype.customReduce = function (callback, initialValue = 0) {
   return previusValue;
 }
 
+Array.prototype.customSort = function (callback) {
+  if (callback !== undefined) {
+    for (let i = 1; i < this.length; i++) {
+      for (let j = 1; j < this.length; j++) {
+        if(callback(this[j], this[j - 1]) < 0) {
+          let tempitem = this[j];
+          this[j] = this[j - 1];
+          this[j - 1] = tempitem;
+        }
+      }
+    }
+  } else {
+    for (let i = 1; i < this.length; i++) {
+      for (let j = 1; j < this.length; j++) {
+        if(String(this[j]).charCodeAt(0) -  String(this[j - 1]).charCodeAt(0) < 0) {
+          let tempitem = this[j];
+          this[j] = this[j - 1];
+          this[j - 1] = tempitem;
+        }
+      }
+    }
+  }
+}
+
+const suffledArray = [ 2, 4, 5, 3, 6, 7, 1, 8 ];
+const stringArray = [ 'a', 'c', 'r', 'u', 'b' ];
+
+// suffledArray.customSort((a, b) => a - b);
+// console.log(suffledArray);
+
+// stringArray.customSort();
+// console.log(stringArray);
+
 // console.log(testArray.customIncludes(1));
 // console.log(testArray.customIndexOf(5));
 // testArray.customReverse();
